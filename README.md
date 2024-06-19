@@ -1,14 +1,12 @@
 <h1 align="center">Hello. I am Fasih</h1>
+
 - On going works: [shop-api](https://github.com/fasihh/shop-api)
-
 - Trying to learn: **Typescript, React Native, and Tailwind CSS**
-
 - Reach me: **fhk.tcs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fasih hasan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fasih hasan khan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fasihh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fasihh" height="30" width="40" /></a>
 <a href="https://discord.gg/fasih_hk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fasih_hk" height="30" width="40" /></a>
 </p>
 
