@@ -2,7 +2,6 @@
 
 - On going works: [shop-api-ts](https://github.com/fasihh/shop-api-ts)
 - Trying to learn: **Typescript, React Native, and Tailwind CSS**
-- Reach me: **fhk.tcs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
