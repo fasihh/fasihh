@@ -1,6 +1,6 @@
 <h1 align="center">Hello. I am Fasih</h1>
 
-- On going works: [shop-api-ts](https://github.com/fasihh/shop-api-ts)
+- On going works: SDSM mobile app
 - Trying to learn: **Typescript, React Native, and Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
