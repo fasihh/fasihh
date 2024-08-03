@@ -1,7 +1,7 @@
 <h1 align="center">Hello. I am Fasih</h1>
 
 - On going works: SDSM mobile app
-- Trying to learn: **Typescript, React Native, and Tailwind CSS**
+- Trying to learn: **How to create programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
